@@ -1,7 +1,7 @@
 # Mastermind
 ZVI Technologies - Test for Applicants
 
-I just wrote a function where if the guess code "guess" is equals to the code "code"
+I wrote a function where if the guess code "guess" is equals to the code "code"
 the function instantly returns a list of 4 black pegs meaning the guess code was 
 perfect.
 
